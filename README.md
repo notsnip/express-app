@@ -3,7 +3,11 @@ Save up time setting up a express application. 🚀
 
 ## Simple Setup
 
-Hit `npm install` to get all the essential packages.
+#### Comes with
+- Express.js
+- Mongoose
+
+Hit `npm install` or `npm i` to get all the essential packages.
 ```
-npm install
+npm i
 ```
