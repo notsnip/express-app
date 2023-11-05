@@ -6,6 +6,7 @@ Save up time setting up a express application. 🚀
 #### Comes with
 - Express.js
 - Mongoose
+- Nodemon
 
 Hit `npm install` or `npm i` to get all the essential packages.
 ```
