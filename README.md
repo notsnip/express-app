@@ -3,6 +3,7 @@ Save up time setting up a express application. 🚀
 
 ## Simple Setup
 
+Hit `npm install` to get all the essential packages.
 ```
-npm install # install all essential packages
+npm install
 ```
